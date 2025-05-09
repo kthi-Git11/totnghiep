@@ -1,0 +1,5 @@
+pandas
+numpy
+streamlit
+PyPDF2
+difflib
